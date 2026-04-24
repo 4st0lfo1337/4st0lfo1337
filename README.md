@@ -1,4 +1,4 @@
-## CashyOS BTW
+## i use CashyOS BTW
 
 <!--
 **4st0lfo1337/4st0lfo1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
