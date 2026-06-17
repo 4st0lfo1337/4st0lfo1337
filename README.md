@@ -34,7 +34,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Statistics:;Graphic:,;Everyone+will+understand...;God+is+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Graphic:;Everyone+will+understand...;God+is+here.)](https://git.io/typing-svg)
 
 <div align="center">
 
