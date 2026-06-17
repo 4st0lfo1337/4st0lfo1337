@@ -5,3 +5,11 @@
 <img width="550" height="500" alt="TV_Lain" src="https://github.com/user-attachments/assets/aa4edb9d-0d08-4f2a-b6b6-44b751a8fb36" />
 
 </div>
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&text_color=FFFFFF&icon_color=FF00FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&text_color=FFFFFF)
+
+</div>
