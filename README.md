@@ -52,5 +52,10 @@
 
 </div>
 
+<div align="center">
+  
+<img width="16" height="16" alt="favicon_16px" src="https://github.com/user-attachments/assets/4fc16c59-46b5-42c3-a2fa-de6abe73b812" />
+
+</div>
 
 
