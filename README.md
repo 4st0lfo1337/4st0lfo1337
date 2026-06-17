@@ -42,15 +42,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+Everyone+will+understand...;╰─❮+See+you+in+the+wired.)](https://git.io/typing-svg)
 
 <div align="center">
+  
+<img width="600" src="https://github.com/user-attachments/assets/97fe4406-f668-493a-b102-f1ac9ce16448" />
+
+</div>
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4st0lfo1337&bg_color=00000000&color=CE7688&line=A05969&point=CE7688&area=true&area_color=965363&hide_border=true" />
 
 </div>
 
-<div align="center">
-<img width="600" src="https://github.com/user-attachments/assets/97fe4406-f668-493a-b102-f1ac9ce16448" />
 
-</div>
 
 <div align="center">
   
