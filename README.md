@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Let's+all+love+Lain!;Exploring+digital+realms;I+exist+in+the+network...;I+am+the+network.)](https://git.io/typing-svg)
-
 <div align="center">
 <img width="550" height="500" alt="TV_Lain" src="https://github.com/user-attachments/assets/aa4edb9d-0d08-4f2a-b6b6-44b751a8fb36" />
 </div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Statistics:;No+matter+where+you+go,;everyone's+connected.)](https://git.io/typing-svg)
-
 <div align="center">
 
 <table>
