@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Let's+all+love+Lain!;Exploring+digital+realms;I+exist+in+the+network...;I+am+the+network.)](https://git.io/typing-svg)
 <div align="center">
   
-<img width="700" src="https://github.com/user-attachments/assets/37a7dc20-da5d-4d59-bc06-a8cf84609414" />
+<img width="800" src="https://github.com/user-attachments/assets/37a7dc20-da5d-4d59-bc06-a8cf84609414" />
 
 </div>
 
