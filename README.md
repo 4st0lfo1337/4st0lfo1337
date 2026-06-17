@@ -1,13 +1,9 @@
 
-<div align="center">
-
-<img width="533" src="https://github.com/user-attachments/assets/d31a8fab-7b99-47d1-9845-08d77c3dd593" />
-
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Let's+all+love+Lain!;Exploring+digital+realms;I+exist+in+the+network...;I+am+the+network.)](https://git.io/typing-svg)
 <div align="center">
-  <img width="550" src="https://github.com/user-attachments/assets/b2a7c81e-cccd-4f9e-b7d5-b1934c46a32b" />
+  
+<img width="600" src="https://github.com/user-attachments/assets/37a7dc20-da5d-4d59-bc06-a8cf84609414" />
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Statistics:;No+matter+where+you+go,;everyone's+connected.)](https://git.io/typing-svg)
