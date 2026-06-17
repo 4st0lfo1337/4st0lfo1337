@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="64" height="64" alt="arch" src="https://github.com/user-attachments/assets/bee72651-b3e4-49d9-ad3d-4b3cfa4dafcb" />
+<img width="64" height="64" alt="archlinux" src="https://github.com/user-attachments/assets/0c99837b-69ad-4f37-96d7-441929671f2f" />
+
 
 
 </div>
