@@ -1,3 +1,12 @@
+
+
+
+<div align="center">
+  
+<img width="100%" src="SEU_BACKGROUND_GIGANTE.png">
+  
+</div>
+
 <div align="center">
   
 <img width="64" src="https://github.com/user-attachments/assets/18fdd9e8-10d3-4916-a6ff-a00ce7bcafe6" />
