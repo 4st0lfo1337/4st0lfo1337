@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="64" height="64" alt="linux" src="https://github.com/user-attachments/assets/9ad45df3-ff53-46cb-9957-f7023718d6de" />
+<img width="64" src="https://github.com/user-attachments/assets/9ad45df3-ff53-46cb-9957-f7023718d6de" />
 
 </div>
 
