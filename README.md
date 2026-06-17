@@ -24,11 +24,11 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=CE7688&text_color=E6E6E6&icon_color=BA6A7B">
+<img src="https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=000000&title_color=CE7688&text_color=E6E6E6&icon_color=BA6A7B">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=0b0f19&title_color=CE7688&text_color=E6E6E6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=000000&title_color=CE7688&text_color=E6E6E6">
 
 </td>
 
