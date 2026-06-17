@@ -1,3 +1,9 @@
+<div align="center">
+  
+<img width="64" src="https://github.com/user-attachments/assets/18fdd9e8-10d3-4916-a6ff-a00ce7bcafe6" />
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Let's+all+love+Lain!;Exploring+digital+realms;I+exist+in+the+network...;I+am+the+network.)](https://git.io/typing-svg)
 <div align="center">
   
