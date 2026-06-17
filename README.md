@@ -1,11 +1,3 @@
-
-
-<div align="center">
-  
-<img width="100%" src="https://github.com/user-attachments/assets/37e767b8-b61b-4b49-897a-3e47cea54fb1" />
-
-</div>
-
 <div align="center">
 
 <img width="64" src="https://github.com/user-attachments/assets/18fdd9e8-10d3-4916-a6ff-a00ce7bcafe6" />
