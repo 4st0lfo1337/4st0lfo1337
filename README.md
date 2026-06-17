@@ -6,6 +6,8 @@
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Statistics;No+matter+where+you+go,;everyone's+connected.+)](https://git.io/typing-svg)
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=CE7688&text_color=E6E6E6&icon_color=BA6A7B&border_color=2A2A2A)
