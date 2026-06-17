@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100" height="90" alt="mebious_icon_02" src="https://github.com/user-attachments/assets/7c7da099-b7fd-423e-9c5d-5bc8aa0469e9" />
+<img width="64" height="64" alt="arch" src="https://github.com/user-attachments/assets/bee72651-b3e4-49d9-ad3d-4b3cfa4dafcb" />
+
 
 </div>
 
