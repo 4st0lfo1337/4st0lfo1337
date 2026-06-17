@@ -34,6 +34,8 @@
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=Statistics:;Graphic:,;Everyone+will+understand...;God+is+here.)](https://git.io/typing-svg)
+
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4st0lfo1337&bg_color=00000000&color=CE7688&line=A05969&point=CE7688&area=true&area_color=965363&hide_border=true" />
