@@ -8,8 +8,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=CE7688&text_color=C9B7BC&icon_color=965363)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=CE7688&text_color=E6E6E6&icon_color=BA6A7B&border_color=2A2A2A)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=CE7688&text_color=C9B7BC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=CE7688&text_color=E6E6E6&border_color=2A2A2A)
 
 </div>
