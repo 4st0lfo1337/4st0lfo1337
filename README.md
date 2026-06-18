@@ -55,6 +55,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=See+you+in+the+wired.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=See+you+in+the+wired...)](https://git.io/typing-svg)
 
 </div>
