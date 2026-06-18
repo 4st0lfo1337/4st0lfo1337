@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 <div align="center">
 
 <img width="100" src="https://github.com/user-attachments/assets/9bdbb1a9-b59a-4e5d-9a51-cf9a48cbd022" />
@@ -16,7 +17,7 @@
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="200">
