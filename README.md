@@ -27,7 +27,7 @@
 
 <td>
 
-<img width="110%" src="https://streak-stats.demolab.com?user=4st0lfo1337&hide_border=true&background=00000000&ring=CE7688&fire=A05969&currStreakLabel=CE7688&sideLabels=955262&dates=955262&currStreakNum=CE7688&sideNums=BA6A7B&separator=965363" />
+<img width="110%" src="https://streak-stats.demolab.com?user=4st0lfo1337&hide_border=true&background=00000000&ring=CE7688&fire=A05969&currStreakLabel=CE7688&sideLabels=955262&dates=955262&currStreakNum=CE7688&sideNums=BA6A7B&stroke=965363" />
 
 <br><br>
 
