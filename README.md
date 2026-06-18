@@ -27,11 +27,11 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262&icon_color=BA6A7B">
+<img width="110%" src="https://streak-stats.demolab.com?user=4st0lfo1337&hide_border=true&background=00000000&ring=CE7688&fire=A05969&currStreakLabel=CE7688&sideLabels=955262&dates=955262&currStreakNum=CE7688&sideNums=BA6A7B&separator=965363" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262">
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262">
 
 </td>
 
