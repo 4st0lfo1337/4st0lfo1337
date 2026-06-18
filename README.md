@@ -49,7 +49,7 @@
 
 <div align="center">
   
-<img width="400" src="https://github.com/user-attachments/assets/058c018d-9379-446e-9857-6dbf7ba60e5e" />
+<img width="437" src="https://github.com/user-attachments/assets/058c018d-9379-446e-9857-6dbf7ba60e5e" />
 
 </div>
 
