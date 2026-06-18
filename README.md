@@ -39,7 +39,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+There+is+no+real+world.;╰─❮+See+you+in+the+wired.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+There+is+no+real+world.;╰─❮+There+is+no+need+for+a+body.)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -50,5 +50,11 @@
 <div align="center">
   
 <img width="600" src="https://github.com/user-attachments/assets/97fe4406-f668-493a-b102-f1ac9ce16448" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=See+you+in+the+wired.)](https://git.io/typing-svg)
 
 </div>
