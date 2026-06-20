@@ -60,14 +60,3 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
   </a>
 </p>
-
-
-
-
-<div align="center">
-
-
-<img width="828" src="https://github.com/user-attachments/assets/6609017d-a88c-46ec-b72e-cbede160eb97" />
-
-</div>
-
