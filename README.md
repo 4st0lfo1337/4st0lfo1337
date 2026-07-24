@@ -5,7 +5,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=╰─❮+Let's+all+love+Lain!;╰─❮+!niaL+evol+lla+s'teL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=2000&color=CE7688&center=false&vCenter=true&width=600&lines=╰─❮+Let's+all+love+Lain!;╰─❮+!niaL+evol+lla+s'teL)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=//Statistics:;╰─❮+No+matter+where+you+go,;╰─❮+everyone's+connected.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=2000&color=CE7688&center=false&vCenter=true&width=600&lines=//Statistics:;╰─❮+No+matter+where+you+go,;╰─❮+everyone's+connected.)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+There+is+no+real+world.;╰─❮+There+is+no+need+for+a+body.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=2000&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+There+is+no+real+world.;╰─❮+There+is+no+need+for+a+body.)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -57,6 +57,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=2000&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
   </a>
 </p>
