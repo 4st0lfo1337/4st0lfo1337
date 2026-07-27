@@ -32,10 +32,7 @@
 
 <br><br>
 
-<img
-  width="80%"
-  src="https://github-readme-stats-extended.jross.me/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262&icon_color=CE7688"
-/>
+<img width="80%" src="https://github-stats-extended.vercel.app/api/top-langs?username=4st0lfo1337&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262&border_color=965363&icon_color=A05969">
 
 </td>
 
