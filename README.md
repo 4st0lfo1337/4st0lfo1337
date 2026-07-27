@@ -41,7 +41,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=2500&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+There+is+no+real+world.;╰─❮+There+is+no+need+for+a+body.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=2900&color=CE7688&center=false&vCenter=true&width=600&lines=//Contribution+Graphic:;╰─❮+There+is+no+real+world.;╰─❮+There+is+no+need+for+a+body.)](https://git.io/typing-svg)
 
 <div align="center">
 
