@@ -32,7 +32,10 @@
 
 <br><br>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4st0lfo1337&layout=compact&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262&langs_count=8">
+<img
+  width="80%"
+  src="https://github-readme-stats-extended.jross.me/api?username=4st0lfo1337&show_icons=true&hide_border=true&bg_color=00000000&title_color=CE7688&text_color=955262&icon_color=CE7688"
+/>
 
 </td>
 
@@ -62,3 +65,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=2500&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
   </a>
 </p>
+
+
